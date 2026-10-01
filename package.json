@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@ramonak/react-progress-bar": "^5.4.0",
-    "framer-motion": "^12.36.0",
+    "framer-motion": "^13.4.6",
     "jarallax": "^2.2.1",
     "next": "16.2.4",
     "react": "^19.3.0",
