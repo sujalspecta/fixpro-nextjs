@@ -20,7 +20,7 @@
     "sweetalert2": "^11.26.25",
     "swiper": "^14.3.0",
     "typescript": "^5",
-    "yet-another-react-lightbox": "^3.29.1"
+    "yet-another-react-lightbox": "^3.32.2"
   },
   "devDependencies": {
     "@types/node": "^26.6.3",
