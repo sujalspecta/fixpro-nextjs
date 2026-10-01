@@ -19,7 +19,7 @@
     "react-fast-marquee": "^1.6.5",
     "sweetalert2": "^11.26.25",
     "swiper": "^14.3.0",
-    "typescript": "^5",
+    "typescript": "^7.0.2",
     "yet-another-react-lightbox": "^3.32.2"
   },
   "devDependencies": {
