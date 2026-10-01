@@ -17,7 +17,7 @@
     "react-countup": "^6.5.3",
     "react-dom": "^19.3.0",
     "react-fast-marquee": "^1.6.5",
-    "sweetalert2": "^11.26.22",
+    "sweetalert2": "^11.26.25",
     "swiper": "^12.1.2",
     "typescript": "^5",
     "yet-another-react-lightbox": "^3.29.1"
