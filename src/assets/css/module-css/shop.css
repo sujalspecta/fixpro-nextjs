@@ -1302,6 +1302,7 @@ Product Details
     width: 100%;
     border: 1px solid rgba(var(--fixpro-black-rgb), .10);
     border-radius: 15px;
+    height: auto;
 }
 
 
